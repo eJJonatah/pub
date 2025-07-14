@@ -1,1 +1,1 @@
-# Publicly mirroring dlls, source files and executables for easier remote development
+## Publicly mirroring dlls, exes and source for easier distributed development
